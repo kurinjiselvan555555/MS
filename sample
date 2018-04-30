@@ -1,0 +1,8 @@
+create table student_kct(student_kct varchar(50),student_id int,student_classno int);
+insert into student_kct values("uthai","219","304");
+insert into student_kct values("manoj","215","302");
+insert into student_kct values("vijay","218","305");
+insert into student_kct values("mano","204","314");
+insert into student_kct values("kurinji","221","315");
+insert into student_kct values("arun","222","306");
+select*from student_kct
